@@ -206,14 +206,6 @@ Event Name  : ObjectCreated:Put
 
 ---
 
-# ⚙️ Configuration Details
-
-Detailed configuration information is available in:
-
-[`configuration/configuration-details.md`](configuration/configuration-details.md)
-
----
-
 # 🧪 Testing
 
 ## Test Case 1 — Image Upload
@@ -270,9 +262,5 @@ The Lambda execution logs should be available in CloudWatch.
 
 **Result:**  
 PASS
-
-Detailed testing information is available in:
-
-[`testing/testing-results.md`](testing/testing-results.md)
 
 ---
