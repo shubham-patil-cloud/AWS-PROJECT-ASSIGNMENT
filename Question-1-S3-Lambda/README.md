@@ -75,8 +75,8 @@ An Amazon S3 bucket was created to store the uploaded image.
 
 ### Configuration
 
-- **Bucket Name:** `<YOUR-BUCKET-NAME>`
-- **Region:** `<YOUR-REGION>`
+- **Bucket Name:** `aws-project-assignment-q1-s3`
+- **Region:** `us-east-1`
 - **Object Ownership:** Bucket owner enforced
 - **Public Access:** Block all public access
 - **Encryption:** SSE-S3
