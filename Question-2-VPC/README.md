@@ -41,7 +41,7 @@ The objective is to design and implement a VPC network architecture containing:
 
 # 🏗️ Architecture
 
-![AWS VPC Architecture](architecture/architecture-diagram.png)
+![AWS VPC Architecture](screenshots/architecture-diagram.png)
 
 ### VPC
 
